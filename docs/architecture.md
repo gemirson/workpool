@@ -18,7 +18,7 @@ The workpool is designed to manage and execute tasks concurrently with high thro
 workpool/
 ├── cmd/
 │   └── main.go
-├── internal/
+├── pkg/
 │   ├── scheduler/
 │   │   └── scheduler.go
 │   ├── task/

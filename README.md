@@ -108,7 +108,7 @@ The information in the README can influence the directory structure and file nam
 workpool/
 ├── cmd/
 │   └── main.go
-├── internal/
+├── pkg/
 │   ├── scheduler/
 │   │   └── scheduler.go
 │   ├── task/

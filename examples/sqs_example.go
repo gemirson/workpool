@@ -8,8 +8,8 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/sqs"
-	"github.com/gemirson/workpool/internal/scheduler"
-	"github.com/gemirson/workpool/internal/task"
+	"github.com/gemirson/workpool/pkg/scheduler"
+	"github.com/gemirson/workpool/pkg/task"
 )
 
 const (
